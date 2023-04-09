@@ -1,2 +1,2 @@
 # OOP-project
-OOP project spring 2023 at SUT
+OOP project in Java spring 2023 at SUT
