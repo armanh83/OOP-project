@@ -1,3 +1,5 @@
 # OOP-project
 OOP project in Java spring 2023 at SUT
-armin samadi 401102037
+Armin Samadi 401102037
+Alireza Shakeri 401101881
+Arman Hadian 402102767
